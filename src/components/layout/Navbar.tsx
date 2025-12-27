@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
             to="/" 
             className="text-xl md:text-2xl font-semibold tracking-tight text-foreground hover:text-primary transition-colors"
           >
-            ATELIER
+            Trand Club
           </Link>
 
           {/* Desktop Navigation */}
